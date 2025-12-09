@@ -7,3 +7,4 @@ class Numbers:
                 print(f"{num} is odd" )
 num=Numbers()
 num.even_odd(100,200)
+
